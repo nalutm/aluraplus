@@ -51,6 +51,7 @@
   font-size: 1.2rem;
   width: 54.4rem;
   margin-bottom: 2rem;
+  text-align: center;
 }
 
 @media screen and (max-width: 1024px) and (orientation: portrait) {

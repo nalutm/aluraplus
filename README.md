@@ -28,7 +28,7 @@ Finalizado
 * CSS
 
 ## Acesso ao projeto
-Você pode acessar o [código fonte do projeto](https://github.com/nalutm/aluraplus) ou [baixá-lo](https://github.com/nalutm/aluraplus/archive/refs/heads/main.zip). Também pode acessar a [página para conferir o resultado final](https://nalutm.github.io/aluraplus/)
+Você pode acessar o [código fonte do projeto](https://github.com/nalutm/aluraplus) ou [baixá-lo](https://github.com/nalutm/aluraplus/archive/refs/heads/main.zip). Também pode acessar a [página para conferir o resultado final](https://aluraplus-nu-red.vercel.app/)
 
 ## Autora
 [Nayara Luiza Tavares Moraes](https://github.com/nalutm)
