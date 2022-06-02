@@ -1,0 +1,21 @@
+.combo__content {
+  margin-left: 6rem;
+}
+
+.container__link--combo{
+  background: var(--blue);
+  display: inline-block;
+  margin-top: 2rem;
+  width: auto;
+}
+
+@media screen and (max-width: 1000px) and (orientation: portrait) {
+  .combo__content {
+    margin-left: 0;
+  }
+
+  .container__link--combo {
+    margin-left: 3rem;
+  }
+
+}
